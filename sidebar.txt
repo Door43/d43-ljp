@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ljp:home|Door43 (ljp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ljp|d43-ljp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ljp/archive/master.zip|d43-ljp.zip]]
+
+**Recent Changes**
+{{changes>ns = ljp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ljp|Ethnologue data]]
+
